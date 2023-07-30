@@ -1,1 +1,1 @@
-worker: bash ALieN.py
+worker: bash sython.py
